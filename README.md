@@ -20,7 +20,7 @@ This repository contains a Python implementation of a Delhi Metro Map system. Th
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/yourusername/DelhiMetroMap.git](https://github.com/devansh-kumar-24/Metro-Maps-
+    git clone https://github.com/devansh-kumar-24/Metro-Maps-
     cd DelhiMetroMap
     ```
 
