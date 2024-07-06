@@ -97,10 +97,3 @@ Enter destination station: Rajiv Chowk~BY
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue for any bugs or feature requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to adjust the content as needed to better match your project specifics and personal preferences.
