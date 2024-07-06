@@ -1,6 +1,4 @@
-Sure! Below is the content for a `README.md` file for your Git repository, which explains the purpose of the Python code, how to set it up, and how to use it.
 
----
 
 # Delhi Metro Map
 
